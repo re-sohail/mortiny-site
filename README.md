@@ -33,7 +33,7 @@ To get started with Mortiny, follow these simple steps:
 3. **Run the Application:** Launch Mortiny by running the appropriate npm or yarn script.
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 4. **Explore and Customize:** Dive into Mortiny and explore its features. Customize it to suit your team's specific needs and preferences.
