@@ -21,7 +21,7 @@ To get started with Mortiny, follow these simple steps:
 1. **Clone the Repository:** Begin by cloning the Mortiny repository to your local machine.
 
     ```bash
-    git clone 
+    git clone https://github.com/re-sohail/mortiny-site
     ```
 
 2. **Install Dependencies:** Navigate to the project directory and install the necessary dependencies using npm or yarn.
